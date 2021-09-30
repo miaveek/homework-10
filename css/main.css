@@ -1,0 +1,36 @@
+header{
+    background: url(../img/bg.png) no-repeat center;
+    background-size: cover;
+}
+.article-cards{
+    background: url(../img/bg2.png) no-repeat center;
+    background-size: cover;
+}
+.card{
+    background-color: transparent;
+    color: #fff;
+    text-align: center;
+    border: none;
+}
+input{
+border-top: transparent !important;
+border-left: transparent !important;
+border-right: transparent !important;
+}
+input::placeholder{
+    color: #fff !important;
+    text-transform: capitalize;
+    text-align: center;
+}
+.navbar{
+    font-size: 26px;
+}
+.new-article{
+    min-height: 550px;
+}
+.copiright{
+    font-size: 12px;
+}
+.btn-link{
+    text-decoration: none;
+}
